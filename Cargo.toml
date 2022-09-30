@@ -1,0 +1,10 @@
+[package]
+name = "domo-dht"
+version = "0.0.0"
+edition = "2021"
+description = "DoMO dht"
+license = "MIT"
+repository = "https://github.com/domo-iot/domo-dht"
+
+[dependencies]
+
